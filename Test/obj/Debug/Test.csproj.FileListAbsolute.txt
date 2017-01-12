@@ -1,0 +1,4 @@
+C:\sites\Test\Test\bin\Debug\Test.exe
+C:\sites\Test\Test\bin\Debug\Test.pdb
+C:\sites\Test\Test\obj\Debug\Test.exe
+C:\sites\Test\Test\obj\Debug\Test.pdb
